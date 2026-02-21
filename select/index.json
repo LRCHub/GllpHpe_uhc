@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アイム・ア・ビリーバー (JUST LIKE THIS 2023 Live)",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-21T21:14:36.884268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_アイム・ア・ビリーバー_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_アイム・ア・ビリーバー_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/03_アイム・ア・ビリーバー_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_アイム・ア・ビリーバー_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー (inst.)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_アイム・ア・ビリーバー_(inst.)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー - New Version - - I'm a Believer - New Version -",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_アイム・ア・ビリーバー_-_New_Version_-_-_I'm_a_Believer_-_New_Version_-_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー - I'm a Believer",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_アイム・ア・ビリーバー_-_I'm_a_Believer_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイム・ア・ビリーバー - New Version -",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/08_アイム・ア・ビリーバー_-_New_Version_-_SPYAIR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイム・ア・ビリーバー",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_アイム・ア・ビリーバー_SPYAIR.txt"
+    }
+  ]
+}
